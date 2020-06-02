@@ -48,7 +48,7 @@ The application is build using Shiny package and the source code is in 2 files:
 - `ui.R`
 - `server.R`
 
-Both files can be found here: [GitHub repo]()
+Both files can be found here: [GitHub repo](https://github.com/shivapathak1639/projectshiny/tree/master)
 
 Application functionality
 ========================================================
